@@ -1,0 +1,5 @@
+torch>=2.0
+tqdm>=4.65
+scipy>=1.10
+
+# Orbbec SDK Python binding and AlphaPose are installed separately.
